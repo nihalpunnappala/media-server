@@ -1,0 +1,44 @@
+{
+  "allVideos": [
+    {
+      "id": "33",
+      "caption": "charlie",
+      "url": "https://assets.vogue.in/photos/5e4d07bd3d390d00086e06fc/master/w_1600%2Cc_limit/charlie.jpg",
+      "link": "https://www.youtube.com/embed/Uc6zSv5G2Ho"
+    },
+    {
+      "id": "12",
+      "caption": "CID Moosa",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTycX2iihyGNzfRpMrMGMyz_lvBowJb01WF8g&s",
+      "link": "https://www.youtube.com/embed/GZRUQy3skaw"
+    }
+  ],
+  "history": [
+    {
+      "caption": "www",
+      "link": "https://www.youtube.com/embed/P_Ci6ImhPZI",
+      "timeStamb": "11/03/2024, 12:36:10 PM",
+      "id": 1
+    },
+    {
+      "caption": "www",
+      "link": "https://www.youtube.com/embed/P_Ci6ImhPZI",
+      "timeStamb": "11/03/2024, 12:36:10 PM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "CID Moosa",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTycX2iihyGNzfRpMrMGMyz_lvBowJb01WF8g&s",
+          "link": "https://www.youtube.com/embed/GZRUQy3skaw"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
